@@ -1,2 +1,5 @@
 Hello git! Hello git! Hello git!
+<<<<<<< HEAD
 今天就先到这里吧。：）
+=======
+今天就先到这里吧。
